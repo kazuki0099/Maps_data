@@ -2,11 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "url": "url_id1"
     },
     {
       "id": 2,
       "title": "aizu"
+      "url": "url_id2"
     }
   ],
   "profile": {
