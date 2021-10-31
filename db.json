@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
     "Unique ID": 1,
     "id": 1,
@@ -12,8 +11,4 @@
     "name": "kamakura",
     "URL": "URL_kamakura"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
