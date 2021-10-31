@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "url": "url_id1"
+      "title": "mutsunokuni_aizujyo_edu",
+      "url": "https://github.com/ie04-aizu-2021/ie04-project-2021-team_hotate/blob/main/RFP/mutsunokuni_aizujyo_edu.jpg"
     },
     {
       "id": 2,
-      "title": "aizu",
+      "title": "",
       "url": "url_id2"
     }
   ],
