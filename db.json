@@ -1,14 +1,19 @@
-[
-  {
+{
+  "posts": [
+    {
     "Unique ID": 1,
     "id": 1,
     "name": "edo",
     "URL": "URL_edo"
   }
   {
-    "userId": 1,
+    "userId": 2,
     "id": 2,
     "name": "kamakura",
     "URL": "URL_kamakura"
   }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
