@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "aizu"
+    }
+    {
+      "id": 2,
+      "title": "iwaki"
+    }
+    {
+      "id": 3,
+      "title": "hukushima"
     }
   ],
   "profile": {
